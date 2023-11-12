@@ -560,6 +560,7 @@ a {
   width: 41px;
   height: 41px;
   margin-left: 23px;
+  cursor: pointer;
 }
 .footer_items h2 {
   font-family: "Roboto", sans-serif;
@@ -586,4 +587,7 @@ a {
   display: flex;
   flex-direction: row;
   margin-left: 144px;
+}
+.footer_logo {
+  cursor: pointer;
 }/*# sourceMappingURL=main.css.map */
