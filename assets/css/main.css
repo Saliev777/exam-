@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * {
   margin: 0;
   padding: 0;
@@ -473,4 +474,115 @@ a {
   background-color: #FAFF09;
   padding: 7px 10px 44px 7px;
   margin-top: 10px;
+}
+
+.section_block {
+  background-image: url(../images/инт\ 1.png);
+  width: 100%;
+  max-width: 1920px;
+  height: 787px;
+  margin-top: 60px;
+}
+.section_block h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 70.41px;
+  color: #FFFFFF;
+  padding-top: 196px;
+  margin-left: 560px;
+}
+.section_block_div {
+  padding-top: 106px;
+  margin-left: 560px;
+}
+
+.div_block {
+  display: flex;
+  flex-direction: row;
+  margin-top: 17px;
+}
+.div_block img {
+  width: 20px;
+  height: 20px;
+}
+.div_block h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 52.81px;
+  color: #FFFFFF;
+  padding-left: 18px;
+}
+
+.instagram_block_div {
+  display: flex;
+  flex-direction: column;
+}
+.instagram_block_div_images {
+  display: flex;
+  flex-direction: row;
+  margin-left: 90px;
+  padding-top: 20px;
+}
+.instagram_block_div_img {
+  width: 417px;
+  height: 417px;
+  padding-left: 18px;
+}
+
+.instagram_img {
+  width: 255.18px;
+  height: 72.39px;
+  margin-left: 100px;
+  margin-top: 92px;
+}
+
+.footer {
+  background-image: url(../images/black.png);
+  width: 1431.5px;
+  height: 1053px;
+  margin-top: 103px;
+}
+.footer_div {
+  display: flex;
+  flex-direction: row;
+  padding-top: 523px;
+  padding-left: 60px;
+}
+.footer_div_items {
+  display: flex;
+  flex-direction: row;
+  padding-left: 1183px;
+}
+.footer_div_item {
+  width: 41px;
+  height: 41px;
+  margin-left: 23px;
+}
+.footer_items h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 35.08px;
+  color: #FAFF09;
+  padding-top: 58px;
+  padding-left: 60px;
+}
+.footer_items p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26.31px;
+  color: #F2F2F2;
+  padding-top: 12px;
+}
+.footer_item {
+  margin-top: 29px;
+  margin-left: 60px;
+}
+.footer_block {
+  display: flex;
+  flex-direction: row;
+  margin-left: 144px;
 }/*# sourceMappingURL=main.css.map */
